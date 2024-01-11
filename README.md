@@ -1,6 +1,6 @@
 # credit-card-fraud-detection-ml
 
-## Overvie
+## Overview
 
 The advent of digital transactions and the widespread use of credit cards have revolutionized the way we conduct financial transactions. However, with the convenience of electronic payments comes the challenge of safeguarding against fraudulent activities, particularly in credit card transactions. Credit card fraud poses a significant threat to both financial institutions and consumers, necessitating advanced measures for detection and prevention.
 
